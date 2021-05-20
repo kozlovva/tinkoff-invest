@@ -19,11 +19,11 @@ services:
     networks:
       - backend
     environment:
-      TINKOFF_SANDBOXTOKEN: t.Aqt6ffxpyYm6lcz70KUPdJHv5OedWXPVO4CidHC6qQ3VTUUfciI5DxYaUAxTMFHfzvrW4afWiJulkvEXc6CnZw
+      TINKOFF_SANDBOXTOKEN:
       SPRING_DATA_MONGODB_HOST: mongo
 
   mongodb:
-    image: mongo:4.0.24
+    image: mongo:latest
     expose:
       - 27017
     ports:

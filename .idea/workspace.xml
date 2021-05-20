@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c26d39a4-9231-4dd6-902d-f6a2c98e4dd6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/invest-service-app/nginx/nginx.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/invest-service-app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/invest-service-app/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/invest-service-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/invest-service-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/invest-service-app/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/invest-service-app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/invest-service-app/public/logo192.png" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/public/logo192.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/invest-service-app/public/logo512.png" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/public/logo512.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/invest-service-app/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/public/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/invest-service-app/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/public/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/invest-service-app/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/invest-service-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/invest-service-app/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/src/App.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/invest-service-app/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/invest-service-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/invest-service-app/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/src/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/invest-service-app/src/reportWebVitals.js" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/src/reportWebVitals.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/invest-service-app/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/src/setupTests.js" afterDir="false" />
-    </list>
+    <list default="true" id="c26d39a4-9231-4dd6-902d-f6a2c98e4dd6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,6 +67,7 @@
       <workItem from="1621255921790" duration="743000" />
       <workItem from="1621260774408" duration="8411000" />
       <workItem from="1621523012335" duration="35000" />
+      <workItem from="1621533331746" duration="326000" />
     </task>
     <servers />
   </component>
