@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c26d39a4-9231-4dd6-902d-f6a2c98e4dd6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/invest-service-app/nginx/nginx.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invest-service-app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invest-service-app/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invest-service-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invest-service-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invest-service-app/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invest-service-app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invest-service-app/public/logo192.png" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/public/logo192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invest-service-app/public/logo512.png" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/public/logo512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invest-service-app/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invest-service-app/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/public/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invest-service-app/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invest-service-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invest-service-app/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invest-service-app/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invest-service-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invest-service-app/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/src/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invest-service-app/src/reportWebVitals.js" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/src/reportWebVitals.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invest-service-app/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/invest-service-app/src/setupTests.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/InvestService" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sWh1cfrAhYt86THqCe3JK2xYr6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/invest-service-app/nginx" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="InvestServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="invest-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.kozlovva.investservice.InvestServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c26d39a4-9231-4dd6-902d-f6a2c98e4dd6" name="Default Changelist" comment="" />
+      <created>1620994038876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620994038876</updated>
+      <workItem from="1620994041814" duration="29000" />
+      <workItem from="1621018284923" duration="5996000" />
+      <workItem from="1621255921790" duration="743000" />
+      <workItem from="1621260774408" duration="8411000" />
+      <workItem from="1621523012335" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621023788136">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog/-78.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1621023788136" />
+    <state width="1750" height="372" key="GridCell.Tab.0.bottom" timestamp="1621232856099">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="372" key="GridCell.Tab.0.bottom/-78.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1621232856099" />
+    <state width="1750" height="372" key="GridCell.Tab.0.center" timestamp="1621232856098">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="372" key="GridCell.Tab.0.center/-78.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1621232856098" />
+    <state width="1750" height="372" key="GridCell.Tab.0.left" timestamp="1621232856098">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="372" key="GridCell.Tab.0.left/-78.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1621232856098" />
+    <state width="1750" height="372" key="GridCell.Tab.0.right" timestamp="1621232856099">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="372" key="GridCell.Tab.0.right/-78.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1621232856099" />
+    <state width="1750" height="372" key="GridCell.Tab.1.bottom" timestamp="1621232856102">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="372" key="GridCell.Tab.1.bottom/-78.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1621232856102" />
+    <state width="1750" height="372" key="GridCell.Tab.1.center" timestamp="1621232856101">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="372" key="GridCell.Tab.1.center/-78.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1621232856101" />
+    <state width="1750" height="372" key="GridCell.Tab.1.left" timestamp="1621232856100">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="372" key="GridCell.Tab.1.left/-78.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1621232856100" />
+    <state width="1750" height="372" key="GridCell.Tab.1.right" timestamp="1621232856101">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="372" key="GridCell.Tab.1.right/-78.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1621232856101" />
+    <state width="1750" height="372" key="GridCell.Tab.2.bottom" timestamp="1621232856104">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="372" key="GridCell.Tab.2.bottom/-78.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1621232856104" />
+    <state width="1750" height="372" key="GridCell.Tab.2.center" timestamp="1621232856103">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="372" key="GridCell.Tab.2.center/-78.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1621232856103" />
+    <state width="1750" height="372" key="GridCell.Tab.2.left" timestamp="1621232856102">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="372" key="GridCell.Tab.2.left/-78.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1621232856102" />
+    <state width="1750" height="372" key="GridCell.Tab.2.right" timestamp="1621232856103">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="372" key="GridCell.Tab.2.right/-78.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1621232856103" />
+    <state x="461" y="260" width="931" height="600" key="new project wizard" timestamp="1621270781102">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="461" y="260" width="931" height="600" key="new project wizard/-78.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1621270781102" />
+  </component>
+</project>

@@ -1,0 +1,11 @@
+server:
+  port: 8080
+
+tinkoff:
+  sandboxToken: t.Aqt6ffxpyYm6lcz70KUPdJHv5OedWXPVO4CidHC6qQ3VTUUfciI5DxYaUAxTMFHfzvrW4afWiJulkvEXc6CnZw
+spring:
+  data:
+    mongodb:
+      database: invest-service
+      auto-index-creation: true
+

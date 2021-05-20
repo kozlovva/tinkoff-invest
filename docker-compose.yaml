@@ -1,0 +1,39 @@
+version: "3.8"
+
+services:
+  frontend:
+    build:
+      context: ./invest-service-app
+    ports:
+      - "80:80"
+    networks:
+      - frontend
+      - backend
+
+  backend:
+    image: kozlovva/invest-service
+    depends_on:
+      - mongodb
+    ports:
+    - 8080:8080
+    networks:
+      - backend
+    environment:
+      TINKOFF_SANDBOXTOKEN: t.Aqt6ffxpyYm6lcz70KUPdJHv5OedWXPVO4CidHC6qQ3VTUUfciI5DxYaUAxTMFHfzvrW4afWiJulkvEXc6CnZw
+      SPRING_DATA_MONGODB_HOST: mongo
+
+  mongodb:
+    image: mongo:4.0.24
+    expose:
+      - 27017
+    ports:
+      - 27017:27017
+#    volumes:
+#      - /Users/kozlovva/data/db:/data/db
+    hostname: mongo
+    networks:
+      - backend
+
+networks:
+  frontend:
+  backend:
